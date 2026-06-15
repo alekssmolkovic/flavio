@@ -8231,7 +8231,7 @@ FNAL g-2:
 FNAL g-2 combination:
   experiment: Muon g-2
   values:
-    a_mu: 116592061(41) e-11
+    a_mu: 1165920715(145) e-12
 
 K+->pinunu E949 2009:
   experiment: 'E949'
